@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Leisha;
+    src: url(../../assets/fonts/Leisha.ttf);
+}
+.fonts{
+    font-family:'Leisha' ;
+    letter-spacing:  4px;
+    color: black;
+}
+.Navmenu{
+    color: black;
+}
